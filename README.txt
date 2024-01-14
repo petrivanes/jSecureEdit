@@ -1,3 +1,5 @@
+https://stackoverflow.com/questions/992019/java-256-bit-aes-password-based-encryption
+
 Warning! This is a crude proof-of-concept effort by a beginner Java developer.
 
 The basic functionality "works", but there's plenty to add/fix.
